@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexandros.p.zoupas@gmail.com
+	name = Alexandros Zoupas
